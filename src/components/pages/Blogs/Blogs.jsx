@@ -55,7 +55,7 @@ const BlogSection = () => {
     title: "Data Science in Retail: Personalization at Scale",
     excerpt: "How retailers are using big data and machine learning to tailor shopping experiences.",
     category: "Data Science",
-    date: "June 1, 2025",
+    date: "May 22, 2025",
     image: dataScience,
     readTime: "7 min read"
   },
@@ -73,7 +73,7 @@ const BlogSection = () => {
     title: "AI in Education: Transforming Learning Experiences",
     excerpt: "From personalized learning paths to intelligent tutoring systems – AI’s role in modern education.",
     category: "Artificial Intelligence",
-    date: "July 10, 2025",
+    date: "May 10, 2025",
     image: ethicalAI,
     readTime: "9 min read"
   }
